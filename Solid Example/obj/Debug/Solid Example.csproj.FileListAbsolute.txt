@@ -1,0 +1,9 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\bin\Debug\Solid Example.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\bin\Debug\Solid Example.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\bin\Debug\Solid Example.pdb
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid Example.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid_Example.Form1.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid_Example.Properties.Resources.resources
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid Example.csproj.GenerateResource.Cache
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid Example.exe
+c:\users\alfredo\documents\visual studio 2015\Projects\Solid Example\Solid Example\obj\Debug\Solid Example.pdb
